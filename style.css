@@ -1,0 +1,50 @@
+
+
+.container{
+    padding-bottom: 100px;
+}
+
+.catagoies{
+    padding-bottom: 50px;
+
+
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-button{
+    
+    background-color: #000;
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+    text-align: center;
+}
+
+.justify-content-end{
+    font-size: medium;
+    padding-bottom: 10px;
+}
+
+
+
+figcaption{
+    
+    border-top-left-radius: 10px;
+    
+    font-size: 25px;
+    padding: 3px 30px;
+
+}
+
+footer{
+    text-align: center;
+}
